@@ -21,3 +21,7 @@ A **simple, elegant, and responsive profile card** built using **HTML & CSS**. T
 
 ## 🌐 Live Demo  
 🔗 [Click here to view the live demo](https://visicard.netlify.app/)  
+
+---
+## **Image
+![Profile Card - HTML & CSS](https://github.com/user-attachments/assets/c2a96a0f-d8be-456e-a70a-8e9577836fad)
